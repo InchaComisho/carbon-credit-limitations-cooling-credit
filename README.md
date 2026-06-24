@@ -12,6 +12,8 @@ The chart below compares the long-term trajectory of global CO2 emissions with r
 
 ![Global CO2 emissions and carbon pricing revenue](./images/IMG_0902.jpeg)
 
+While carbon credit markets and carbon pricing revenue have grown rapidly, global CO2 emissions remain near record highs. In practice, many credits function more as an accounting offset than as evidence of real, measurable planetary cooling. This repository examines that gap and treats current carbon markets as, at best, a limited tool that can easily become a permission slip for continued emissions if used without strict integrity and cooling-focused metrics.
+
 ## Abstract
 
 This document reexamines how effective carbon credits and carbon offsets have actually been as climate measures, using emissions trends, carbon pricing revenue, offset quality, and the more direct question of whether they have measurably cooled the planet.
