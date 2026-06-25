@@ -22,7 +22,7 @@ This document reexamines how effective carbon credits and carbon offsets have ac
 
 The central argument is not that every carbon-credit mechanism is meaningless, but that current carbon-pricing and offset systems, even when they mobilize large sums of money, have not yet demonstrated a sufficient capacity to lower planetary heat in a clear and measurable way. For that reason, a new framework is needed: one that evaluates and rewards measurable cooling outcomes.
 
-> **Search-snippet summary**  
+> **Search-snippet summary**
 > Carbon-credit markets have grown, yet global CO2 emissions remain near record highs, while offset quality still faces questions about additionality and permanence. Climate policy needs to move beyond bookkeeping offsets toward systems that evaluate measurable real-world cooling.
 
 ## Carbon-credit markets expanded, but global emissions remained high
@@ -71,7 +71,7 @@ Possible metrics include air-temperature reduction, surface-temperature reductio
 - Forest, watershed, wetland, and landscape regeneration that restores evapotranspiration and local rainfall support.
 - Ocean-circulation, oxygenation, and ecological restoration technologies linked to cooling support.
 
-> **Defensive formulation**  
+> **Defensive formulation**
 > “Current carbon-credit systems may have some value in mobilizing funds, but when judged against the goal of reducing planetary heat, their practical effectiveness remains insufficient. A framework that directly evaluates measurable cooling outcomes should therefore be considered.”
 
 ## Conclusion
@@ -107,7 +107,7 @@ Not only heavy industry or energy companies. Urban cooling, construction, agricu
 ## Author
 **Master / inchacomusho / InchaComisho**
 
-An independent Japanese conceptual architect, observer, proposer, AI tuner, and definer of artificial wisdom.  
+An independent Japanese conceptual architect, observer, proposer, AI tuner, and definer of artificial wisdom.
 Proposer and builder of the academic framework of Natural Complementary Science.
 Publishes work centered on natural-law philosophy, planetary circulation regeneration, and co-creation with AI.
 
@@ -125,7 +125,7 @@ This knowledge framework has been developed through dialogue and co-creation bet
 June 2026
 
 ## License
-This repository is published for public knowledge-sharing and planetary environmental regeneration.  
+This repository is published for public knowledge-sharing and planetary environmental regeneration.
 If used for implementation, commercialization, institutional design, research, or investment judgment, clear credit to **Master / inchacomusho / InchaComisho** is strongly recommended, along with support, collaboration, sponsorship, joint research, or implementation partnership whenever possible.
 
 ## Keywords
@@ -133,3 +133,8 @@ carbon credits, carbon offsets, cooling credits, CO2 emissions reduction, carbon
 
 ## Hashtags
 #CarbonCredit #CarbonOffsets #CoolingCredit #GlobalWarming #CO2 #CarbonPricing #Climate #MRV #PlanetaryCooling #CoolingCredits
+
+## Related Links
+
+- [Climate Disasters as Heat Redistribution and Cooling Credit](https://github.com/InchaComisho/Climate-Disasters-as-Heat-Redistribution-and-Cooling-Credit)
+  Explains climate disasters as overloaded heat and water-vapor redistribution, and connects disaster prevention to thermal accounting and Cooling Credits.
