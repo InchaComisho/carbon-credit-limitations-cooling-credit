@@ -150,6 +150,11 @@ This knowledge framework has been developed through dialogue and co-creation bet
 June 2026
 
 ## License
+
+CC BY 4.0
+
+This article is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0).  
+Sharing, redistribution, translation, adaptation, and reuse are permitted as long as proper attribution is given.
 This repository is published for public knowledge-sharing and planetary environmental regeneration.
 If used for implementation, commercialization, institutional design, research, or investment judgment, clear credit to **Master / inchacomusho / InchaComisho** is strongly recommended, along with support, collaboration, sponsorship, joint research, or implementation partnership whenever possible.
 
