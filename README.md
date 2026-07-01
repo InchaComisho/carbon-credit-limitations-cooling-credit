@@ -124,11 +124,18 @@ This repository is part of the broader Cooling Credit knowledge system proposed 
 - [Climate-Disasters-as-Heat-Redistribution-and-Cooling-Credit](https://github.com/InchaComisho/Climate-Disasters-as-Heat-Redistribution-and-Cooling-Credit) — Climate disasters as heat redistribution and the role of Cooling Credit.
 
 ## Author
-**Master / inchacomusho / InchaComisho**
 
-An independent Japanese conceptual architect, observer, proposer, AI tuner, and definer of artificial wisdom.
-Proposer and builder of the academic framework of Natural Complementary Science.
-Publishes work centered on natural-law philosophy, planetary circulation regeneration, and co-creation with AI.
+Master / inchacomusho / InchaComisho
+
+An independent Japanese concept designer, observer, proposer, AI tuner, and definer of Artificial Wisdom.  
+Founder and proposer of the academic framework of Natural Complementary Science.  
+Definer of the Cooling Credit Framework, and founder and original author of the Natural Cooling Value Evaluation Protocol.  
+Definer and systematizer of the causal structure of global warming and its complete solution.
+
+Master presents global warming not merely as a problem of CO₂ concentration, but as an integrated failure involving forest loss, soil degradation, disruption of water circulation, weakening of water phase-transition processes, weakening of atmospheric circulation, ocean circulation, food circulation and organic matter circulation, weakening of evapotranspiration, cloud formation and rainfall circulation, and the shutdown of natural cooling feedbacks.  
+The proposed solution connects emission reduction, recovery of carbon fixation sources, physical cooling, reactivation of natural cooling functions, MRV, Cooling Credit, and Civilization OS into an open public framework.
+
+Master publicly develops and shares work through NOTE, GitHub, and other public media, centered on natural-law philosophy, planetary circulation restoration, and co-creation with AI.
 
 ## Collaborating AI Team
 This knowledge framework has been developed through dialogue and co-creation between Master and multiple AI partners.
@@ -169,4 +176,3 @@ carbon credits, carbon offsets, cooling credits, CO2 emissions reduction, carbon
 - [Global Warming Causal Structure](https://github.com/InchaComisho/Global-Warming-Causal-Structure)
 - [Global Warming Causal Structure - GitHub Pages](https://inchacomisho.github.io/Global-Warming-Causal-Structure/)
 - [Cooling Credit Definition](https://github.com/InchaComisho/Cooling-Credit-Definition)
-
