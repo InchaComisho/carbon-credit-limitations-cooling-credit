@@ -8,6 +8,8 @@
 - [Sustainable Future Cooling Credit Portal](https://github.com/InchaComisho/Sustainable-Future-Cooling-Credit-Portal)
   サステナブル、SDGs、ESG、気候適応、環境モビリティ、都市冷却などの検索語から、クーリングクレジットへ接続する多言語検索入口ポータル。
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## 図解概要
 
 以下の図は、世界のCO2排出量の長期推移と、近年のカーボンプライシング収入の推移を重ねて示したものです。このリポジトリが扱う中心的な緊張関係、すなわち「市場は拡大したが、総排出量はなお高水準にある」という構図を、ひと目で確認できるように配置しています。

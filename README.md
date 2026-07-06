@@ -2,6 +2,8 @@
 
 English | [日本語](./README_ja.md) | [العربية](./README_ar.md)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 - [Cooling Credit Framework Portal](https://inchacomisho.github.io/Cooling-Credit-Framework/)
 - [Carbon Credit to Cooling Credit](https://github.com/InchaComisho/Carbon-Credit-to-Cooling-Credit)
 - [Cooling Credit Implementation Portfolio](https://github.com/InchaComisho/Cooling-Credit-Implementation-Portfolio)
