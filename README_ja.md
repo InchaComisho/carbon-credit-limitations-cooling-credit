@@ -99,7 +99,6 @@ UCL のレビューは、追加性、リーケージ、恒久性、時間遅れ�
 - [温暖化時代のエルニーニョとクーリングクレジット](https://github.com/InchaComisho/El-Nino-Warning-and-Cooling-Credit/blob/main/README_ja.md)
   すでに熱を抱えた海にエルニーニョが重なる危険性を整理し、その警告をクーリングクレジットと熱会計へ接続する文書。
 
-- [NOTE版：温暖化時代のエルニーニョとクーリングクレジット](https://note.com/inchacomusho/n/n3426a35cb2a2)
   エルニーニョ、海洋蓄熱、熱会計、クーリングクレジットを一般向けに接続した記事。
 
 <!-- COOLING-CREDIT-REPOSITORY-FAMILY:START -->
